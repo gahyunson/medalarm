@@ -30,4 +30,4 @@ services:
       - POSTGRES_PASSWORD=tmp
 
 volumes:
-  dev-db-date:
+  dev-db-data:
